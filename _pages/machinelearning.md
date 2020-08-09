@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /data-wrangling/
-title: "Data Wrangling projects"
+permalink: /Titanic Dataset/
+title: "Titanic Dataset Analysis"
 author_profile: true
 header:
   image: "/images/fort point.png"
