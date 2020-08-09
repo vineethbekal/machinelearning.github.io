@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Vineeth Bekal"
 title_separator          : "-"
 name                     : "Vineeth Bekal"
-description              : "Machine Learning Project"
+description              : "Project Made Till Now"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Vineeth Bekal"
   avatar           : "/images/bio-pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning Project"
+  bio              : "Projects"
   location         : "India"
   email            : "vineethbekal@yahoo.com"
   uri              : 
