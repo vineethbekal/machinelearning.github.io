@@ -1,5 +1,5 @@
 ---
-title: "Titanic DataSet Analysis"
+title: "Project1"
 date: 2020-08-01
 tags: [data science]
 header:
