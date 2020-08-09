@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /Titanic Dataset/
+permalink: /Project1/
 title: "Projects"
 author_profile: true
 header:
