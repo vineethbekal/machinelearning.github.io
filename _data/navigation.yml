@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Titanic DataSet Analysis"
-    url: /Project1/
-  - title: "Demo"
-    url: /test/
+  - title: "Projects"
+    url: /projects/
+  # - title: "Demo"
+  #   url: /test/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
