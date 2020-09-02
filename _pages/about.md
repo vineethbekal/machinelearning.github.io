@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/about.jpeg"
 ---
 
 I'm a Student who excels at machine learning, exploratory analysis, and data visualizations. 
