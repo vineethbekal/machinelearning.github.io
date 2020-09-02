@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Titanic DataSet Analysis"
     url: /Project1/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Demo"
+    url: /test/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
